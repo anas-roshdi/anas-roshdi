@@ -6,7 +6,7 @@ I have a passion for technology and a strong interest in software development, e
 ## 🌟 About Me
 - **Nationality**: Thai
 - **Contact**: [a7nas.talika@gmail.com]
-- **LinkedIn**: [anas tilika]([https://www.linkedin.com/in/anas-roshdi](https://www.linkedin.com/in/anas-tilika-925a6b212/))
+- **LinkedIn**: [anas tilika](https://www.linkedin.com/in/anas-tilika-925a6b212/)
 
 ## 💻 Skills
 - **Programming Languages**: Java, Python, HTML, CSS
