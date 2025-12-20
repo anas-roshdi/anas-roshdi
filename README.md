@@ -20,21 +20,13 @@ I have a passion for technology and a strong interest in software development, e
 
 ## 🚀 Projects
 Here are some projects I've worked on:
-- **e-plantShopping**:A React e-commerce app featuring a dynamic shopping cart and real-time calculations, managed via Redux/Context API.
+- **e-plantShopping**[Live demo 🚀](https://anas-roshdi.github.io/e-plantShopping/):A React e-commerce app featuring a dynamic shopping cart and real-time calculations, managed via Redux/Context API.
 - **Smart Attendance System**: Developed an NFC system to automate student attendance.
 - **Handwritten Arabic Character Recognition**: Trained models for character recognition using machine learning.
 - **Company Classification Project**: Trained a model to classify companies based on names and descriptions.
 - **TVs Store Project**: Built a responsive 3-page website for a TV store.
 - **Painter Project**: Designed a simple digital painting program.
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas-roshdi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-roshdi&layout=compact&theme=radical&langs_count=6" />
-</p>  
-
 
 ## 📜 Certifications
 - Developing Front-End Apps with React
