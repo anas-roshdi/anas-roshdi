@@ -29,12 +29,12 @@ Here are some projects I've worked on:
   
 
 ## 📜 Certifications
-- Developing Front-End Apps with React
-- Version Control (Coursera)
-- Machine Learning Foundations: A Case Study Approach (Coursera)
-- Machine Learning: Classification (Coursera)
-- Machine Learning: Regression (Coursera)
-- Machine Learning: Clustering & Retrieval (Coursera)
+- Developing Front-End Apps with React (IBM)
+- Version Control (Meta)
+- Machine Learning Foundations: A Case Study Approach (University of Washington)
+- Machine Learning: Classification (University of Washington)
+- Machine Learning: Regression (University of Washington)
+- Machine Learning: Clustering & Retrieval (University of Washington)
 
 ## 🌍 Languages
 - **Arabic**: Native
