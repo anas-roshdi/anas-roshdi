@@ -24,7 +24,6 @@ Here are some projects I've worked on:
 - **Smart Attendance System**: Developed an NFC system to automate student attendance.
 - **Handwritten Arabic Character Recognition**: Trained models for character recognition using machine learning.
 - **Company Classification Project**: Trained a model to classify companies based on names and descriptions.
-- **TVs Store Project**: Built a responsive 3-page website for a TV store.
 - **Painter Project**: Designed a simple digital painting program.
   
 
