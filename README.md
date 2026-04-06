@@ -20,6 +20,7 @@ I have a passion for technology and a strong interest in software development, e
 
 ## 🚀 Projects
 Here are some projects I've worked on:
+- **Devo - Unified Business Management System ( Under development)** :	Developed a professional desktop application for accounting management featuring a dynamic invoicing system for sales and purchases.
 - **e-plantShopping** [Live demo 🚀](https://anas-roshdi.github.io/e-plantShopping/):A React e-commerce app featuring a dynamic shopping cart and real-time calculations, managed via Redux/Context API.
 - **Smart Attendance System**: Developed an NFC system to automate student attendance.
 - **Handwritten Arabic Character Recognition**: Trained models for character recognition using machine learning.
