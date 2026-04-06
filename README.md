@@ -12,8 +12,8 @@ I have a passion for technology and a strong interest in software development, e
 
 ## 💻 Skills
 - **Programming Languages**: Java, JavaScript, HTML, CSS, Python
-- **Databases**: MySQL, Oracle
-- **Development**: Web Applications, Front-End & Back-End Development
+- **Databases**: MySQL, Oracle , SQlite .
+- **Development**: Web Applications, Front-End & Back-End Development ,Desktop Application Development .
 - **Web Technologies**: HTML5, CSS3, JSX, React.js
 - **Concepts**: Object-Oriented Programming, Machine Learning, AI Applications
 - **Soft Skills**: Problem-Solving, User Interface Design
