@@ -46,9 +46,9 @@
 
 ## 🏗️ Highlighted Projects
 - **Devo - Unified Business Management System:** A desktop app for inventory and accounting with AI-driven financial forecasting and dynamic sales visualizations *(Python, Tkinter, Pandas, Scikit-learn)*.
-- **Express Book Reviews API:** A robust RESTful API featuring CRUD operations and secure JWT authentication.
-- **E-plant Shopping App:** [Live Demo 🚀](https://anas-roshdi.github.io/e-plantShopping/) | A responsive React e-commerce frontend with a dynamic cart managed via Redux.
 - **Smart Attendance System:** My Graduation Project. An automated attendance tracker using NFC technology and Java for real-time school administration.
+- **E-plant Shopping App:** [Live Demo 🚀](https://anas-roshdi.github.io/e-plantShopping/) | A responsive React e-commerce frontend with a dynamic cart managed via Redux.
+- **Express Book Reviews API:** A robust RESTful API featuring CRUD operations and secure JWT authentication.
 - **Arabic Character Recognition:** A Machine Learning model leveraging Deep Learning and VGG16 architecture to recognize handwritten Arabic characters.
 
 ---
