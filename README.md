@@ -13,8 +13,7 @@
 
 ---
 
-## Goals
-
+## 🎯 Goals
 - 🌱 Eager to continuously develop my skills to bring value to the community and grow both personally and professionally.
 
 ## 💻 Tech Stack & Tools
@@ -55,7 +54,15 @@
 ---
 
 ## 📜 Certifications
-- **Frontend:** Developing Front-End Apps with React *(IBM)*
-- **Version Control:** Git and GitHub *(Meta)*
-- **Machine Learning Specialization:** Foundations, Classification, Regression, Clustering & Retrieval *(University of Washington)*
+- **Frontend Development:** Developing Front-End Apps with React[cite: 5]
+- **Backend Development:** Developing Back-End Apps with Node.js and Express[cite: 5]
+- **Cloud Computing:** Introduction to Cloud Computing[cite: 5]
+- **Version Control:** Version Control[cite: 5]
+- **Machine Learning:** Machine Learning Foundations: A Case Study Approach[cite: 5] | Machine Learning: Classification[cite: 5]
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-roshdi&show_icons=true&theme=tokyonight" alt="Anas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-roshdi&theme=tokyonight" alt="Anas's GitHub Streak" width="48%" />
+</p>
