@@ -45,6 +45,8 @@
 ---
 
 ## 🏗️ Highlighted Projects
+- **Quran Journey App (In Progress):** Currently developing a comprehensive educational mobile app featuring role-based dashboards, interactive 
+learning modules, dynamic memorization roadmaps, and a scalable front-end architecture *( React Native, TypeScript,  JSX, Git)*. 
 - **Devo - Unified Business Management System:** A desktop app for inventory and accounting with AI-driven financial forecasting and dynamic sales visualizations *(Python, Tkinter, Pandas, Scikit-learn)*.
 - **Smart Attendance System:** My Graduation Project. An automated attendance tracker using NFC technology and Java for real-time school administration.
 - **E-plant Shopping App:** [Live Demo 🚀](https://anas-roshdi.github.io/e-plantShopping/) | A responsive React e-commerce frontend with a dynamic cart managed via Redux.
