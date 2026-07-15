@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! I'm Anas Muhammed Roshdi Tilika 👋</h1>
 
-<h3 align="center">Computer Science Graduate (Excellent with Honors) | Full-Stack & AI Enthusiast 🎓</h3>
+<h3 align="center">Computer Science Graduate (Excellent with Honors) | Software Engineer & Mobile App Developer 📱</h3>
 
 <p align="center">
-  A passionate software developer from UMM-ALQURA UNIVERSITY with a strong interest in building scalable web applications, robust APIs, and integrating Machine Learning solutions. Constantly pushing boundaries to create impactful software.
+  A passionate software engineer from UMM-ALQURA UNIVERSITY with a strong focus on Mobile Application Development (React Native) and building scalable, user-centric solutions. Constantly pushing boundaries to solve complex problems and create impactful software.
 </p>
 
 <p align="center">
@@ -14,43 +14,43 @@
 ---
 
 ## 🎯 Goals
-- 🌱 Eager to continuously develop my skills to bring value to the community and grow both personally and professionally.
+- 🌱 Eager to continuously develop my skills in software architecture and mobile development to bring value to the community and grow professionally.
 
 ## 💻 Tech Stack & Tools
 
 **Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-**Frontend:**
+**Mobile & Frontend:**
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 **Backend & Databases:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F00000?style=flat&logo=oracle&logoColor=white)
 
 **AI & Data Science:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
 ## 🏗️ Highlighted Projects
-- **Quran Journey App (In Progress):** Currently developing a comprehensive educational mobile app featuring role-based dashboards, interactive 
-learning modules, dynamic memorization roadmaps, and a scalable front-end architecture *( React Native, TypeScript,  JSX, Git)*. 
-- **Devo - Unified Business Management System:** A desktop app for inventory and accounting with AI-driven financial forecasting and dynamic sales visualizations *(Python, Tkinter, Pandas, Scikit-learn)*.
-- **Smart Attendance System:** My Graduation Project. An automated attendance tracker using NFC technology and Java for real-time school administration.
+
+- **Lammeh - Social Party Game (Coming Soon to Google Play):** An offline multiplayer social deduction game for Android. Developed from scratch utilizing SQLite for local data management, and managed the complete deployment lifecycle to Google Play Console *(React Native, TypeScript, SQLite, EAS Build)*.
+- **Quran Journey App (In Progress):** Currently developing a comprehensive educational mobile app featuring role-based dashboards, interactive learning modules, dynamic memorization roadmaps, and a scalable front-end architecture *(React Native, TypeScript, JSX, Git)*. 
+- **Devo - Unified Business Management System:** A desktop app for inventory and accounting with AI-driven financial forecasting and dynamic sales visualizations *(Python, Tkinter, SQLite, Pandas, Scikit-learn)*.
+- **Smart Attendance System:** My Graduation Project. An advanced NFC system developed to automate student attendance for real-time school administration *(Java, NFC, Database)*.
 - **E-plant Shopping App:** [Live Demo 🚀](https://anas-roshdi.github.io/e-plantShopping/) | A responsive React e-commerce frontend with a dynamic cart managed via Redux.
-- **Express Book Reviews API:** A robust RESTful API featuring CRUD operations and secure JWT authentication.
 - **Arabic Character Recognition:** A Machine Learning model leveraging Deep Learning and VGG16 architecture to recognize handwritten Arabic characters.
 
 ---
@@ -61,4 +61,3 @@ learning modules, dynamic memorization roadmaps, and a scalable front-end archit
 - **Cloud Computing:** Introduction to Cloud Computing *(IBM)*
 - **Version Control:** Version Control *(Meta)*
 - **Machine Learning:** Foundations, Classification, Regression, Clustering & Retrieval *(University of Washington)*
-
