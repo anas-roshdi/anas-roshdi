@@ -46,7 +46,7 @@
 
 ## 🏗️ Highlighted Projects
 
-- **Lammeh - Social Party Game (Coming Soon to Google Play):** [Download APK 📦](https://github.com/anas-roshdi/Lammeh/releases/download/Lammeh-App-First-Release/lammeh-v1.0.0.apk) | An offline multiplayer social deduction game for Android. Developed from scratch utilizing SQLite for local data management, and managed the complete deployment lifecycle to Google Play Console *(React Native, TypeScript, SQLite, EAS Build)*.
+- **Lammeh - Social Party Game :** [Download Google Play 📦](https://play.google.com/store/apps/details?id=com.anoosyhero.lammeh) | An offline multiplayer social deduction game for Android. Developed from scratch utilizing SQLite for local data management, and managed the complete deployment lifecycle to Google Play Console *(React Native, TypeScript, SQLite, EAS Build)*.
 - **Quran Journey App (In Progress):** Currently developing a comprehensive educational mobile app featuring role-based dashboards, interactive learning modules, dynamic memorization roadmaps, and a scalable front-end architecture *(React Native, TypeScript, JSX, Git)*. 
 - **Devo - Unified Business Management System:** A desktop app for inventory and accounting with AI-driven financial forecasting and dynamic sales visualizations *(Python, Tkinter, SQLite, Pandas, Scikit-learn)*.
 - **Smart Attendance System:** My Graduation Project. An advanced NFC system developed to automate student attendance for real-time school administration *(Java, NFC, Database)*.
